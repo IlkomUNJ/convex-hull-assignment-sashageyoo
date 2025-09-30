@@ -1,0 +1,9 @@
+/home/chandravril/Documents/qt_project/convex_hull/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/convex_hull.dir
+/home/chandravril/Documents/qt_project/convex_hull/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/edit_cache.dir
+/home/chandravril/Documents/qt_project/convex_hull/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/chandravril/Documents/qt_project/convex_hull/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/list_install_components.dir
+/home/chandravril/Documents/qt_project/convex_hull/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install.dir
+/home/chandravril/Documents/qt_project/convex_hull/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/local.dir
+/home/chandravril/Documents/qt_project/convex_hull/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/strip.dir
+/home/chandravril/Documents/qt_project/convex_hull/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/convex_hull_autogen_timestamp_deps.dir
+/home/chandravril/Documents/qt_project/convex_hull/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/convex_hull_autogen.dir

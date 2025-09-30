@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_convex_hull_FILE /home/chandravril/Documents/qt_project/convex_hull/build/Desktop_Qt_6_9_2-Debug/convex_hull)
+set(__QT_DEPLOY_TARGET_convex_hull_TYPE EXECUTABLE)
